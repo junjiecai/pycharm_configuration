@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../datascience_synyi/datascience_synyi/model/predict.py'" />
-    <option name="defaultScopeName" value="File '.../datascience_synyi/datascience_synyi/model/predict.py'" />
+    <option name="customScope" value="Directory '.../sy_utilities'" />
+    <option name="defaultScopeName" value="Directory '.../sy_utilities'" />
     <option name="localCaseSensitive" value="true" />
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../datascience_synyi/datascience_synyi/model/predict.py'" />
+    <option name="SEARCH_SCOPE" value="Directory '.../sy_utilities'" />
   </component>
 </application>
