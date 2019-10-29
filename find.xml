@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../sy_workflow/workflow/core.py'" />
-    <option name="defaultScopeName" value="File '.../sy_workflow/workflow/core.py'" />
+    <option name="customScope" value="Directory '.../vte_project'" />
+    <option name="defaultScopeName" value="Directory '.../vte_project'" />
     <option name="localCaseSensitive" value="true" />
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../sy_workflow/workflow/core.py'" />
+    <option name="SEARCH_SCOPE" value="Directory '.../vte_project'" />
   </component>
 </application>
