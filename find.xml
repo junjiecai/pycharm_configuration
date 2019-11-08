@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '.../sy_workflow'" />
-    <option name="defaultScopeName" value="Directory '.../sy_workflow'" />
+    <option name="customScope" value="File '.../flask_be/china_par_model.py'" />
+    <option name="defaultScopeName" value="File '.../flask_be/china_par_model.py'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '.../sy_workflow'" />
+    <option name="SEARCH_SCOPE" value="File '.../flask_be/china_par_model.py'" />
   </component>
 </application>
