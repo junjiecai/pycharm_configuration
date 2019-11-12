@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '.../sepsis'" />
-    <option name="defaultScopeName" value="Directory '.../sepsis'" />
+    <option name="customScope" value="Directory '.../sy_workflow'" />
+    <option name="defaultScopeName" value="Directory '.../sy_workflow'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '.../sepsis'" />
+    <option name="SEARCH_SCOPE" value="Directory '.../sy_workflow'" />
   </component>
 </application>
