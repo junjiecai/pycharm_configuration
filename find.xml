@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Unnamed" />
-    <option name="defaultScopeName" value="Unnamed" />
+    <option name="customScope" value="Directory '.../datascience_components'" />
+    <option name="defaultScopeName" value="Directory '.../datascience_components'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Unnamed" />
+    <option name="SEARCH_SCOPE" value="Directory '.../datascience_components'" />
   </component>
 </application>
