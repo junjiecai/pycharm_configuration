@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '.../sepsis'" />
-    <option name="defaultScopeName" value="Directory '.../sepsis'" />
-    <option name="SEARCH_SCOPE" value="Directory '.../sepsis'" />
+    <option name="customScope" value="sepsis" />
+    <option name="defaultScopeName" value="sepsis" />
+    <option name="SEARCH_SCOPE" value="sepsis" />
   </component>
 </application>
