@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '.../datascience_synyi'" />
-    <option name="defaultScopeName" value="Directory '.../datascience_synyi'" />
-    <option name="SEARCH_SCOPE" value="Directory '.../datascience_synyi'" />
+    <option name="customScope" value="datascience_synyi" />
+    <option name="defaultScopeName" value="datascience_synyi" />
+    <option name="SEARCH_SCOPE" value="datascience_synyi" />
   </component>
 </application>
