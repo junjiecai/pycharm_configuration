@@ -6,6 +6,8 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="error_inputs_t" type="PLAIN_TEXT" />
       <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
+      <mapping pattern="model_simulation" type="PLAIN_TEXT" />
+      <mapping pattern="simulation" type="PLAIN_TEXT" />
       <mapping pattern="api_client.yml" type="PLAIN_TEXT" />
       <mapping ext="pkl" type="Python" />
     </extensionMap>
