@@ -9,6 +9,7 @@
       <mapping pattern="model_simulation" type="PLAIN_TEXT" />
       <mapping pattern="simulation" type="PLAIN_TEXT" />
       <mapping pattern="api_client.yml" type="PLAIN_TEXT" />
+      <mapping ext="asm" type="PLAIN_TEXT" />
       <mapping ext="pkl" type="Python" />
     </extensionMap>
   </component>
