@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '.../sy_utilities'" />
-    <option name="defaultScopeName" value="Directory '.../sy_utilities'" />
-    <option name="SEARCH_SCOPE" value="Directory '.../sy_utilities'" />
+    <option name="customScope" value="File '.../shap_test/shap-demo.py'" />
+    <option name="defaultScopeName" value="File '.../shap_test/shap-demo.py'" />
+    <option name="SEARCH_SCOPE" value="File '.../shap_test/shap-demo.py'" />
   </component>
 </application>
