@@ -1,5 +1,8 @@
 <profile version="1.0">
   <option name="myName" value="Default" />
+  <inspection_tool class="AppEngineDeprecatedRuntimeInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+  <inspection_tool class="AppEngineThreadsafeCGIHandlerInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+  <inspection_tool class="AppEngineThreadsafeInspection" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="CommandLineInspection" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="CythonUsageBeforeDeclarationInspection" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
@@ -110,4 +113,8 @@
     <option name="ignoreLoopIterationVariables" value="true" />
     <option name="ignoreVariablesStartingWithUnderscore" value="true" />
   </inspection_tool>
+  <inspection_tool class="Query_bound_parameters" enabled="true" level="ERROR" enabled_by_default="true" />
+  <inspection_tool class="Query_index_required" enabled="true" level="ERROR" enabled_by_default="true" />
+  <inspection_tool class="Query_restricted" enabled="true" level="ERROR" enabled_by_default="true" />
+  <inspection_tool class="Restricted_Python_calls" enabled="true" level="ERROR" enabled_by_default="true" />
 </profile>
