@@ -10,6 +10,7 @@
       <mapping pattern="simulation" type="PLAIN_TEXT" />
       <mapping pattern="api_client.yml" type="PLAIN_TEXT" />
       <mapping pattern="default_template" type="PLAIN_TEXT" />
+      <mapping pattern=".pydeps" type="PLAIN_TEXT" />
       <mapping ext="asm" type="PLAIN_TEXT" />
       <mapping ext="pkl" type="Python" />
       <mapping pattern="demo" type="TypeScript" />
