@@ -106,6 +106,7 @@
   <inspection_tool class="PyTupleItemAssignmentInspection" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="PyTypeCheckerInspection" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="PyTypeHintsInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+  <inspection_tool class="PyTypedDictInspection" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="PyUnboundLocalVariableInspection" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="PyUnnecessaryBackslashInspection" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="PyUnreachableCodeInspection" enabled="true" level="ERROR" enabled_by_default="true" />
