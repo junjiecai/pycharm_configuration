@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'sy_utilities'" />
-    <option name="defaultScopeName" value="Project 'sy_utilities'" />
-    <option name="SEARCH_SCOPE" value="Project 'sy_utilities'" />
+    <option name="customScope" value="Project 'sql_generator'" />
+    <option name="defaultScopeName" value="Project 'sql_generator'" />
+    <option name="SEARCH_SCOPE" value="Project 'sql_generator'" />
   </component>
 </application>
