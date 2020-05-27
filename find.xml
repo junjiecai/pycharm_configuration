@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'sql_generator'" />
-    <option name="defaultScopeName" value="Project 'sql_generator'" />
-    <option name="SEARCH_SCOPE" value="Project 'sql_generator'" />
+    <option name="customScope" value="Directory '.../0035_type_hinting'" />
+    <option name="defaultScopeName" value="Directory '.../0035_type_hinting'" />
+    <option name="SEARCH_SCOPE" value="Directory '.../0035_type_hinting'" />
   </component>
 </application>
