@@ -8,6 +8,7 @@
       <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
       <mapping pattern="model_simulation" type="PLAIN_TEXT" />
       <mapping pattern="simulation" type="PLAIN_TEXT" />
+      <mapping pattern="numbers" type="PLAIN_TEXT" />
       <mapping pattern="api_client.yml" type="PLAIN_TEXT" />
       <mapping pattern="default_template" type="PLAIN_TEXT" />
       <mapping pattern=".pydeps" type="PLAIN_TEXT" />
