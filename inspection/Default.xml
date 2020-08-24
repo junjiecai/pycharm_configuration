@@ -116,6 +116,7 @@
       <list>
         <option value="bool.sum" />
         <option value="functools.cached_property" />
+        <option value="float.pvalue" />
       </list>
     </option>
   </inspection_tool>
