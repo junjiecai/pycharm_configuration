@@ -2,18 +2,16 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="error_inputs_t" type="PLAIN_TEXT" />
-      <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
-      <mapping pattern="model_simulation" type="PLAIN_TEXT" />
-      <mapping pattern="simulation" type="PLAIN_TEXT" />
-      <mapping pattern="numbers" type="PLAIN_TEXT" />
-      <mapping pattern="api_client.yml" type="PLAIN_TEXT" />
       <mapping pattern="default_template" type="PLAIN_TEXT" />
+      <mapping pattern="api_client.yml" type="PLAIN_TEXT" />
+      <mapping pattern="error_inputs_t" type="PLAIN_TEXT" />
+      <mapping pattern="model_simulation" type="PLAIN_TEXT" />
+      <mapping pattern="numbers" type="PLAIN_TEXT" />
+      <mapping pattern="simulation" type="PLAIN_TEXT" />
       <mapping pattern=".pydeps" type="PLAIN_TEXT" />
-      <mapping ext="rc" type="PLAIN_TEXT" />
+      <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
       <mapping ext="asm" type="PLAIN_TEXT" />
+      <mapping ext="rc" type="PLAIN_TEXT" />
       <mapping ext="pkl" type="Python" />
       <mapping pattern="demo" type="TypeScript" />
     </extensionMap>
