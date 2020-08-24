@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '.../0035_type_hinting'" />
-    <option name="defaultScopeName" value="Directory '.../0035_type_hinting'" />
-    <option name="SEARCH_SCOPE" value="Directory '.../0035_type_hinting'" />
+    <option name="customScope" value="File '.../dataset_summary/dataset_summary/dataset.py'" />
+    <option name="defaultScopeName" value="File '.../dataset_summary/dataset_summary/dataset.py'" />
+    <option name="SEARCH_SCOPE" value="File '.../dataset_summary/dataset_summary/dataset.py'" />
   </component>
 </application>
