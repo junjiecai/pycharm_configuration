@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../dataset_summary/dataset_summary/dataset.py'" />
-    <option name="defaultScopeName" value="File '.../dataset_summary/dataset_summary/dataset.py'" />
-    <option name="SEARCH_SCOPE" value="File '.../dataset_summary/dataset_summary/dataset.py'" />
+    <option name="customScope" value="Directory '.../dataset_generator'" />
+    <option name="defaultScopeName" value="Directory '.../dataset_generator'" />
+    <option name="SEARCH_SCOPE" value="Directory '.../dataset_generator'" />
   </component>
 </application>
