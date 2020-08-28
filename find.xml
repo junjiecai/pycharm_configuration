@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '.../dataset_summary'" />
-    <option name="defaultScopeName" value="Directory '.../dataset_summary'" />
-    <option name="SEARCH_SCOPE" value="Directory '.../dataset_summary'" />
+    <option name="customScope" value="File '.../machine_learning/machine_learning/models.py'" />
+    <option name="defaultScopeName" value="File '.../machine_learning/machine_learning/models.py'" />
+    <option name="SEARCH_SCOPE" value="File '.../machine_learning/machine_learning/models.py'" />
   </component>
 </application>
