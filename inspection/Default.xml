@@ -7,23 +7,23 @@
   <inspection_tool class="CythonUsageBeforeDeclarationInspection" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="PyAbstractClassInspection" enabled="true" level="ERROR" enabled_by_default="true" />
-  <inspection_tool class="PyArgumentEqualDefaultInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+  <inspection_tool class="PyArgumentEqualDefaultInspection" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="PyArgumentListInspection" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="PyAssignmentToLoopOrWithParameterInspection" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="PyAsyncCallInspection" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="PyAttributeOutsideInitInspection" enabled="true" level="ERROR" enabled_by_default="true" />
-  <inspection_tool class="PyAugmentAssignmentInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+  <inspection_tool class="PyAugmentAssignmentInspection" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="PyBDDParametersInspection" enabled="true" level="ERROR" enabled_by_default="true" />
-  <inspection_tool class="PyBehaveInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+  <inspection_tool class="PyBehaveInspection" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="PyBroadExceptionInspection" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="PyByteLiteralInspection" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="PyCallByClassInspection" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="PyCallingNonCallableInspection" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="PyChainedComparisonsInspection" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="PyClassHasNoInitInspection" enabled="true" level="ERROR" enabled_by_default="true" />
-  <inspection_tool class="PyClassicStyleClassInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+  <inspection_tool class="PyClassicStyleClassInspection" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="PyComparisonWithNoneInspection" enabled="true" level="ERROR" enabled_by_default="true" />
-  <inspection_tool class="PyCompatibilityInspection" enabled="false" level="ERROR" enabled_by_default="false">
+  <inspection_tool class="PyCompatibilityInspection" enabled="true" level="ERROR" enabled_by_default="true">
     <option name="ourVersions">
       <value>
         <list size="2">
@@ -51,14 +51,14 @@
   <inspection_tool class="PyInitNewSignatureInspection" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="PyInterpreterInspection" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="PyListCreationInspection" enabled="true" level="ERROR" enabled_by_default="true" />
-  <inspection_tool class="PyMandatoryEncodingInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+  <inspection_tool class="PyMandatoryEncodingInspection" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="PyMethodFirstArgAssignmentInspection" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="PyMethodMayBeStaticInspection" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="PyMethodOverridingInspection" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="PyMethodParametersInspection" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="PyMissingConstructorInspection" enabled="true" level="ERROR" enabled_by_default="true" />
-  <inspection_tool class="PyMissingOrEmptyDocstringInspection" enabled="false" level="ERROR" enabled_by_default="false" />
-  <inspection_tool class="PyMissingTypeHintsInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+  <inspection_tool class="PyMissingOrEmptyDocstringInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+  <inspection_tool class="PyMissingTypeHintsInspection" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="PyNamedTupleInspection" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="PyNestedDecoratorsInspection" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="PyNonAsciiCharInspection" enabled="true" level="ERROR" enabled_by_default="true" />
@@ -120,12 +120,7 @@
       </list>
     </option>
   </inspection_tool>
-  <inspection_tool class="PyUnusedLocalInspection" enabled="true" level="ERROR" enabled_by_default="true">
-    <option name="ignoreTupleUnpacking" value="true" />
-    <option name="ignoreLambdaParameters" value="true" />
-    <option name="ignoreLoopIterationVariables" value="true" />
-    <option name="ignoreVariablesStartingWithUnderscore" value="true" />
-  </inspection_tool>
+  <inspection_tool class="PyUnusedLocalInspection" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="Query_bound_parameters" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="Query_index_required" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="Query_restricted" enabled="true" level="ERROR" enabled_by_default="true" />
