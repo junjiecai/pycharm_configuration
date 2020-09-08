@@ -11,6 +11,9 @@
     </Languages>
   </inspection_tool>
   <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="InconsistentLineSeparators" enabled="true" level="ERROR" enabled_by_default="true" />
+  <inspection_tool class="LongLine" enabled="true" level="ERROR" enabled_by_default="true" />
+  <inspection_tool class="ProblematicWhitespace" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="PyAbstractClassInspection" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="PyArgumentEqualDefaultInspection" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="PyArgumentListInspection" enabled="true" level="ERROR" enabled_by_default="true" />
@@ -143,5 +146,7 @@
   <inspection_tool class="Query_bound_parameters" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="Query_index_required" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="Query_restricted" enabled="true" level="ERROR" enabled_by_default="true" />
+  <inspection_tool class="RedundantSuppression" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="Restricted_Python_calls" enabled="true" level="ERROR" enabled_by_default="true" />
+  <inspection_tool class="TodoComment" enabled="true" level="ERROR" enabled_by_default="true" />
 </profile>
