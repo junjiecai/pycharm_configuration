@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="Directory '.../qa_diabetes_jena_v2'" />
     <option name="defaultScopeName" value="Directory '.../qa_diabetes_jena_v2'" />
+    <option name="localWholeWordsOnly" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Directory '.../qa_diabetes_jena_v2'" />
   </component>
 </application>
