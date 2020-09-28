@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '.../bi_data_demo'" />
-    <option name="defaultScopeName" value="Directory '.../bi_data_demo'" />
-    <option name="SEARCH_SCOPE" value="Directory '.../bi_data_demo'" />
+    <option name="customScope" value="Directory '.../nlp_process'" />
+    <option name="defaultScopeName" value="Directory '.../nlp_process'" />
+    <option name="SEARCH_SCOPE" value="Directory '.../nlp_process'" />
   </component>
 </application>
