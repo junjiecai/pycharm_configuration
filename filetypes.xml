@@ -8,6 +8,7 @@
       <mapping pattern="model_simulation" type="PLAIN_TEXT" />
       <mapping pattern="numbers" type="PLAIN_TEXT" />
       <mapping pattern="simulation" type="PLAIN_TEXT" />
+      <mapping pattern="comments.md" type="PLAIN_TEXT" />
       <mapping pattern=".pydeps" type="PLAIN_TEXT" />
       <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
       <mapping ext="asm" type="PLAIN_TEXT" />
