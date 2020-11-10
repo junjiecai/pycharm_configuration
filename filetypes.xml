@@ -12,6 +12,7 @@
       <mapping pattern=".pydeps" type="PLAIN_TEXT" />
       <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
       <mapping ext="asm" type="PLAIN_TEXT" />
+      <mapping ext="tpl" type="PLAIN_TEXT" />
       <mapping ext="rc" type="PLAIN_TEXT" />
       <mapping ext="pkl" type="Python" />
       <mapping pattern="demo" type="TypeScript" />
